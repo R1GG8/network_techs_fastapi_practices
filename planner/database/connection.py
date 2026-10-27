@@ -1,4 +1,3 @@
-from models.events import Event
 from sqlmodel import Session, SQLModel, create_engine
 
 database_file = "planner.db"
